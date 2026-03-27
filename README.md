@@ -1,3 +1,14 @@
+# 💫 Hi 👋, Piyush Jain
+
+**B.Tech CSE Student | Full Stack Developer | Aspiring AI & Systems Engineer**
+
+* 🔭 **Currently working on:** Building real-world full stack projects and AI-based applications
+* 🌱 **Currently learning:** Data Structures & Algorithms, System Design, and AI/ML fundamentals
+* 👯 **Looking to collaborate on:** Scalable web apps, AI-driven products, or impactful startup ideas
+* 🤔 **Looking for help with:** Advanced system design and optimizing real-world applications
+* 💬 **Ask me about:** DSA, Web Development, or project building
+* 📫 **Reach me at:** piyushjain07032004@gmail.com
+* ⚡ **Fun fact:** I focus on building projects, not just consuming tutorials
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushjain5597) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@piyush Jain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushjain07032004@gmail.com) 
